@@ -1,4 +1,3 @@
-gcc TRIAL.c -o program
 
 #include <stdio.h>
 
