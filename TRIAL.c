@@ -15,8 +15,9 @@ int main() {
 
     // Display final CPU state
 // mohsen
-   printf("HAIDY");
+   printf("H");
     return 0;
+    //HAMADA
 }
 
 //haidy
