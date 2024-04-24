@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int X = 0;
-
+//g
 
 int main(){
 
