@@ -10,3 +10,4 @@ int main(){
     printf("25\n"); 
 
 }
+uyfyg
