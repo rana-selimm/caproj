@@ -9,7 +9,7 @@ int X = 0;
 //89
 // hhCA Project
 
-CHAT GPT: DON'T USE  
+//CHAT GPT: DON'T USE  
 
 #include <stdio.h>
 #include <stdlib.h>
