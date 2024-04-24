@@ -103,9 +103,3 @@ int main() {
 //haidy
 //sabry
 // hello
-int main(){
-
-    printf("X\n"); 
-    printf("25\n"); 
-
-}
