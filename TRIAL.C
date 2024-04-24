@@ -1,4 +1,4 @@
-gcc program.c -o program
+gcc TRIAL.c -o program
 
 #include <stdio.h>
 
