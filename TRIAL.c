@@ -3,6 +3,8 @@
 
 int X = 0;
 //g
+//p
+
 
 int main(){
 
