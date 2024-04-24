@@ -4,6 +4,7 @@
 int X = 0;
 //g
 //p
+// k
 
 
 int main(){
