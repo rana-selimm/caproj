@@ -1,3 +1,4 @@
+gcc program.c -o program
 
 #include <stdio.h>
 
